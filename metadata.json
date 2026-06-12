@@ -1,0 +1,6 @@
+{
+  "name": "StrongMarket Gabon",
+  "description": "Première plateforme d'e-commerce du Gabon. Achetez, vendez et gérez vos boutiques en ligne avec Mobile Money et logistique intégrée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
